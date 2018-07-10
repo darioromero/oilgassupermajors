@@ -1,2 +1,2 @@
-# oil and gas super majors - Sentiment Analysis in Python, Keras, GloVe, and LSTM
+# Sentiment Analysis of Oil and Gas Super Majors - Analysis in Python, Keras, GloVe, and LSTM
 sentiment analysis for oil &amp; gas super majors
